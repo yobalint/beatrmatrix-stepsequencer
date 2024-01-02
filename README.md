@@ -18,5 +18,5 @@ The beatrmatrix device is simply a controller for the Max patcher. All the "magi
 - 19x 6x6x5mm tact push button
 
 # If you'd rather not build it yourself, you can order it on Etsy
-[Official Etsy shop] (https://www.etsy.com/shop/beatrmatrix)
+Official Etsy shop: (https://www.etsy.com/shop/beatrmatrix)
 
