@@ -22,3 +22,11 @@ The beatrmatrix device is simply a controller for the Max patcher. All the "magi
 # If you'd rather not build it yourself, you can order it on Etsy
 Official Etsy shop: (https://www.etsy.com/shop/beatrmatrix)
 
+
+# Support the project
+
+| Paypal |
+| ---- |
+| [<img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" width="100%">](https://www.paypal.com/donate/?hosted_button_id=DY3BFYHC33TGG) |
+
+
