@@ -18,6 +18,16 @@ The beatrmatrix device is simply a controller for the Max patcher. All the "magi
 - Arduino nano
 - 4x WS2812 – 8 bit
 - 19x 6x6x5mm tact push button
+- some short wires
+- thick double sided adhesive tape
+
+# How to build it 
+Placing the Arduino and buttons is straightforward. When it comes to the LEDs, it's a bit trickier. First, attaching side of double-sided tape to the WS2812 module. Then, solder the shorter wires to the necessary pins on the LED module. Next, attach the module onto the main PCB using the other side of the tape and proceed to solder the wires to the board.
+
+<p>
+<img src="https://github.com/beatrmatrix/beatrmatrix-stepsequencer/assets/155435444/bb9c64b8-949a-4c15-bf83-bc98acf3dd76" width="30%">
+ <em>Pinout on the board for the ws2812 module</em>
+</p>
 
 # If you'd rather not build it yourself, you can order it on Etsy
 Official Etsy shop: (https://www.etsy.com/shop/beatrmatrix)
