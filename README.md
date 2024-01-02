@@ -11,4 +11,12 @@
 The beatrmatrix device is simply a controller for the Max patcher. All the "magic" happens within the patcher.
 ![Artboard 1](https://github.com/beatrmatrix/beatrmatrix-stepsequencer/assets/155435444/69ccd0b2-98da-4127-9b73-ca75df1196e0)
 
-The beatrmatrix device is simply a controller for the Max patcher. All the "magic" happens within the patcher.
+# Parts
+- PCB
+- Arduino nano
+- 4x WS2812 – 8 bit
+- 19x 6x6x5mm tact push button
+
+# If you'd rather not build it yourself, you can order it on Etsy
+[Official Etsy shop] (https://www.etsy.com/shop/beatrmatrix)
+
