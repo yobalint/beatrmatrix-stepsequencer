@@ -6,3 +6,9 @@
 - Visual feedback through RGB (ws2812b) LEDs, indicating MIDI sound and step positions.
 - Dedicated buttons for placing individual sounds or samples on each step.
 - Compact design, measuring under 0.5cm tall, 12.8cm long, and 8cm wide.
+
+# How it works
+The beatrmatrix device is simply a controller for the Max patcher. All the "magic" happens within the patcher.
+![Artboard 1](https://github.com/beatrmatrix/beatrmatrix-stepsequencer/assets/155435444/69ccd0b2-98da-4127-9b73-ca75df1196e0)
+
+The beatrmatrix device is simply a controller for the Max patcher. All the "magic" happens within the patcher.
