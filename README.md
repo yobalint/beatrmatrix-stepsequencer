@@ -1,7 +1,5 @@
-[![Demo video]          
-(https://github.com/beatrmatrix/beatrmatrix-stepsequencer/assets/155435444/e2875924-2747-43c7-a839-e10e0893d5e8)]
-(https://youtu.be/UGjb02PYg5U "Demo video")
-https://youtu.be/UGjb02PYg5U
+# Demo video
+[<img src="https://github.com/beatrmatrix/beatrmatrix-stepsequencer/assets/155435444/e2875924-2747-43c7-a839-e10e0893d5e8" width="100%">](https://youtu.be/UGjb02PYg5U)
 # Functions
 - Supports 8 different MIDI sounds, enabling the triggering of diverse drums or samples loaded into a drum rack.
 - Allows effortless creation and switching between 3 distinct patterns.
