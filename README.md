@@ -29,8 +29,13 @@ Placing the Arduino and buttons is straightforward. When it comes to the LEDs, i
  <em>Pinout on the board for the ws2812 module</em>
 </p>
 
-# If you'd rather not build it yourself, you can order it on Etsy
-Official Etsy shop: (https://www.etsy.com/shop/beatrmatrix)
+# If you'd rather not build it yourself, you can order it on Tindie
+
+<a href="https://www.tindie.com/stores/beatrmatrix/?ref=offsite_badges&utm_source=sellers_beatrmatrix&utm_medium=badges&utm_campaign=badge_large"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-larges.png" alt="I sell on Tindie" width="200" height="104"></a>
+
+- Fully Assembled
+- DIY Kit
+- Just the PCB board
 
 
 # Support the project
